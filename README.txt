@@ -1,5 +1,5 @@
 ﻿//------------------------------------
-// MQTT-SUB, send TO esp8266 
+// MQTT, send TO esp8266 
 // @Author  : Kouji Nakashima / kuc-arc-f.com
 // @date    : 2016-06-30
 //------------------------------------
