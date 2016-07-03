@@ -19,7 +19,8 @@ mTopic="item-kuc-arc-f/device-1/matrix_sample_v2"
 #mCITY="40"
 mCITY="13"
 
-mTimeMax=3
+#mTimeMax=3
+mTimeMax=30
 mMaxTitle=10
 
 mTyp_MSG =1
